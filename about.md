@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A blog showcasing my progress and work in the Metis Data Science program. May or may not include other random posts on the topic of data mining and predictive analytics.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Graduated with a PhD in biomedical engineering from Washington University in 2013. The motivation for this blog is to simply record and showcase my efforts into entering the field of data science.
